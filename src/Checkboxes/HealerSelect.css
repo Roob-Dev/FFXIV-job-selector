@@ -1,0 +1,12 @@
+ul {
+  list-style: none;
+}
+
+.form-check form-switch {
+  display: flex;
+  justify-content: center;
+}
+
+.form-check-label {
+  display: flex;
+}

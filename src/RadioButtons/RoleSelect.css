@@ -1,0 +1,21 @@
+img {
+  width: 32px;
+  height: 32px;
+  margin: 5px;
+}
+
+p {
+  font-size: 30px;
+}
+
+label {
+  font-size: 20px;
+}
+fieldset {
+  align-self: center;
+}
+
+form {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
